@@ -1,0 +1,6 @@
+{
+  "log_type": "daily",
+  "max_log_count": 30,
+  "log_directory": "C:/Users/furkan/Desktop/logs",
+  "log_frequency": 2
+}
